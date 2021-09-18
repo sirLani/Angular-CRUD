@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "olanipekun",
+      "lastName": "olanipekunolaide22@gmail.com",
+      "email": "olanipekunolaide22@gmail.com",
+      "salary": 50000
+    },
+    {
+      "id": 3,
+      "firstName": "olaide",
+      "lastName": "olaide.olanipekun@yahoo.com",
+      "email": "olaide.olanipekun@yahoo.com",
+      "salary": 70000
+    },
+    {
+      "id": 4,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@mail.com",
+      "salary": 500000
+    },
+    {
+      "id": 5,
+      "firstName": "shehu",
+      "lastName": "aladdin",
+      "email": "aladin@mail.com",
+      "salary": 100000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
